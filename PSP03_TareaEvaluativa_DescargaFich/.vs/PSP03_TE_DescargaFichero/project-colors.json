@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b6d8b980-9260-45bf-a649-83edbdc412af": {
+      "ProjectGuid": "b6d8b980-9260-45bf-a649-83edbdc412af",
+      "DisplayName": "PSP03_TE_DescargaFich_Cliente",
+      "ColorIndex": 0
+    },
+    "2043839c-11fa-430c-bbb0-158e29937589": {
+      "ProjectGuid": "2043839c-11fa-430c-bbb0-158e29937589",
+      "DisplayName": "PSP03_TE_DescargaFich_Servidor",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
